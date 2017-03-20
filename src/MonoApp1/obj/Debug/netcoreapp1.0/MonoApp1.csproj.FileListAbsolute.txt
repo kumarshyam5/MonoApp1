@@ -1,0 +1,9 @@
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\bin\Debug\netcoreapp1.0\MonoApp1.deps.json
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\bin\Debug\netcoreapp1.0\MonoApp1.runtimeconfig.json
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\bin\Debug\netcoreapp1.0\MonoApp1.runtimeconfig.dev.json
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\bin\Debug\netcoreapp1.0\MonoApp1.dll
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\bin\Debug\netcoreapp1.0\MonoApp1.pdb
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\obj\Debug\netcoreapp1.0\MonoApp1.csprojResolveAssemblyReference.cache
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\obj\Debug\netcoreapp1.0\MonoApp1.AssemblyInfo.cs
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\obj\Debug\netcoreapp1.0\MonoApp1.dll
+c:\Users\u23298\documents\visual studio 2017\Projects\MonoApp1\src\MonoApp1\obj\Debug\netcoreapp1.0\MonoApp1.pdb
